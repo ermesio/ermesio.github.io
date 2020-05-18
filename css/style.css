@@ -1,0 +1,109 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+
+
+
+
+
+/**
+ * Toolset.it
+ * http://toolset.mrwebmaster.it/css/button-generator.html
+ * 
+ * Utilizzo: 
+ * <a href="#" class="btn-toolset">
+ * <strong>Testo primario</strong>
+ * </a>
+ */
+
+
+.as {
+	background-color: #fced6d;
+	padding-left: auto;
+    box-sizing: auto;
+    font-family: "Verdana"; 
+    font-size: 60%;
+}
+
+.bt{
+ display: inline-block;
+ text-align: center;
+ m: 10;
+ color: #FAFAFA;
+ text-decoration: none;
+ line-height: 1.2;
+ font-weight: normal;
+ font-family: sans-serif;
+ font-size: 18px;
+ background-color: #ED6A5A;
+ border-radius: 0px;
+ padding: auto;
+ border: 5px solid #FEF777;
+ cursor: pointer;
+}
+.bt:hover {
+ background-color: #B94A3F;
+ border-color: #FAE363;
+}
+.bt {
+ font-size: 24px;
+}
+
+
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+
+}
+img.resized { width: 200px; height: auto; }
+.header{
+	margin-top:10%;
+	font-size: 4em
+}
+.header-subtitle{
+	margin-top:7%;
+	font-size:2em;
+}
+
+.row-footer {
+	margin: 0% 0%;
+}
+
+.container-1 {
+	margin-top:10%;
+	margin-bottom:10%
+	
+
+
+
+ {
+
+
+}
+.col-servizio {
+	margin-top:10px;
+}
+
+.container-2 {
+	margin-top:10%;
+	margin-bottom:10%;
+}
+.class-h1a
+ {
+	padding: 10%;
+	margin-bottom:10%;
+}
+#finale li, h5 {
+	
+	line-height: 2em;
+}
